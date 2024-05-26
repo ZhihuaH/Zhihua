@@ -1,2 +1,1 @@
-# Zhihua
-Public Profile
+Hello! I am Zhihua
